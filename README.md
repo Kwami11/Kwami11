@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Franck Awuley</h1>
+<h3 align="center">Hey! You Welcome To My Profile.....</h3>
+<h3 align="center">My Name Is Franck Awuley</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!--
-**Kwami11/Kwami11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwami11&label=Profile%20views&color=0e75b6&style=flat" alt="kwami11" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/franck_awuley" target="blank"><img src="https://img.shields.io/twitter/follow/franck_awuley?logo=twitter&style=for-the-badge" alt="franck_awuley" /></a> </p>
+I am a Software Engineering student at ALX. I learn by doing....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Coding skills.**
+
+- 👯 I’m looking to collaborate on **on software Engineering programs.**
+
+- 📫 How to reach me **dns.cisco.umbrella@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/franck_awuley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franck_awuley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/franck awuley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franck awuley" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:21534433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21534433" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwami11&show_icons=true&locale=en&layout=compact" alt="kwami11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwami11&show_icons=true&locale=en" alt="kwami11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwami11&" alt="kwami11" /></p>

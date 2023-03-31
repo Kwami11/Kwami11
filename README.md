@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franck Awuley</h1>
 <h3 align="center">Hey! You Welcome To My Profile.....</h3>
-<h3 align="center">My Name Is Franck Awuley</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwami11&label=Profile%20views&color=0e75b6&style=flat" alt="kwami11" /> </p>

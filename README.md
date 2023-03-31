@@ -9,7 +9,7 @@ I am a Software Engineering student at ALX. I learn by doing....
 
 - 🔭 I’m currently working on **Coding skills.**
 
-- 👯 I’m looking to collaborate on **on software Engineering programs.**
+- 👯 I’m looking to collaborate **on software Engineering programs.**
 
 - 📫 How to reach me **dns.cisco.umbrella@gmail.com**
 
